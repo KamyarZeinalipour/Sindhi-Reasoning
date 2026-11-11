@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use Sindhi-Reasoning-Instruct, please cite the paper below."
+title: "Enabling Structured Reasoning in Sindhi with Culturally Grounded Instruction Tuning"
+repository-code: "https://github.com/KamyarZeinalipour/Sindhi-Reasoning"
+license: Apache-2.0
+authors:
+  - {family-names: Mehak, given-names: Mehak}
+  - {family-names: Zeinalipour, given-names: Kamyar}
+  - {family-names: Soomro, given-names: Pireh}
+  - {family-names: Chesi, given-names: Cristiano}
+  - {family-names: Gori, given-names: Marco}
+  - {family-names: Maggini, given-names: Marco}
+preferred-citation:
+  type: conference-paper
+  title: "Enabling Structured Reasoning in Sindhi with Culturally Grounded Instruction Tuning"
+  authors:
+    - {family-names: Mehak, given-names: Mehak}
+    - {family-names: Zeinalipour, given-names: Kamyar}
+    - {family-names: Soomro, given-names: Pireh}
+    - {family-names: Chesi, given-names: Cristiano}
+    - {family-names: Gori, given-names: Marco}
+    - {family-names: Maggini, given-names: Marco}
+  collection-title: "Proceedings of the Second Workshop on Language Models for Low-Resource Languages (LoResLM 2026)"
+  publisher: {name: "Association for Computational Linguistics"}
+  conference: {name: "LoResLM 2026", city: Rabat, country: MA}
+  month: 3
+  year: 2026
+  start: 239
+  end: 258
+  doi: "10.18653/v1/2026.loreslm-1.22"
+  url: "https://aclanthology.org/2026.loreslm-1.22/"

@@ -1,0 +1,31 @@
+model,task_type,n,base_rating,tuned_rating,relative_gain_pct,tuned_preferred_pct,tuned_A,tuned_B,tuned_C,tuned_D,tuned_E,base_A,base_B,base_C,base_D,base_E
+Llama-3.2-1B-Instruct,all,100,1.08,2.03,87.963,100.0,0,4,33,25,38,0,0,0,8,92
+Llama-3.2-1B-Instruct,Causal Reasoning,24,1.125,2.2917,103.7037,100.0,0,2,10,5,7,0,0,0,3,21
+Llama-3.2-1B-Instruct,Commonsense Reasoning,22,1.0455,1.8636,78.2609,100.0,0,1,7,2,12,0,0,0,1,21
+Llama-3.2-1B-Instruct,Deductive Reasoning,30,1.0333,1.9,83.871,100.0,0,1,5,14,10,0,0,0,1,29
+Llama-3.2-1B-Instruct,Inductive Reasoning,24,1.125,2.0833,85.1852,100.0,0,0,11,4,9,0,0,0,3,21
+Llama-3.2-3B-Instruct,all,100,1.62,2.96,82.716,92.0,0,18,61,20,1,0,3,9,35,53
+Llama-3.2-3B-Instruct,Causal Reasoning,24,1.7917,3.0833,72.093,91.6667,0,5,16,3,0,0,1,3,10,10
+Llama-3.2-3B-Instruct,Commonsense Reasoning,22,1.3636,3.1364,130.0,95.4545,0,7,11,4,0,0,1,1,3,17
+Llama-3.2-3B-Instruct,Deductive Reasoning,30,1.6333,2.7,65.3061,90.0,0,0,22,7,1,0,0,3,13,14
+Llama-3.2-3B-Instruct,Inductive Reasoning,24,1.6667,3.0,80.0,91.6667,0,6,12,6,0,0,1,2,9,12
+Llama-3.1-8B-Instruct,all,100,3.13,4.32,38.0192,91.0,50,40,6,0,4,5,25,55,8,7
+Llama-3.1-8B-Instruct,Causal Reasoning,24,3.5,4.5417,29.7619,83.3333,14,9,1,0,0,3,8,11,2,0
+Llama-3.1-8B-Instruct,Commonsense Reasoning,22,3.1364,4.5909,46.3768,95.4545,14,7,1,0,0,1,5,13,2,1
+Llama-3.1-8B-Instruct,Deductive Reasoning,30,3.1,4.0333,30.1075,90.0,10,15,3,0,2,1,7,18,2,2
+Llama-3.1-8B-Instruct,Inductive Reasoning,24,2.7917,4.2083,50.7463,95.8333,12,9,1,0,2,0,5,13,2,4
+Mistral-7B-Instruct-v0.3,all,100,2.21,3.52,59.276,92.0,4,51,38,7,0,1,5,27,48,19
+Mistral-7B-Instruct-v0.3,Causal Reasoning,24,2.3333,3.5833,53.5714,95.8333,2,10,12,0,0,0,1,8,13,2
+Mistral-7B-Instruct-v0.3,Commonsense Reasoning,22,1.9091,3.7727,97.619,100.0,0,17,5,0,0,0,0,4,12,6
+Mistral-7B-Instruct-v0.3,Deductive Reasoning,30,2.0,3.1333,56.6667,90.0,0,10,14,6,0,0,2,6,12,10
+Mistral-7B-Instruct-v0.3,Inductive Reasoning,24,2.625,3.7083,41.2698,83.3333,2,14,7,1,0,1,2,9,11,1
+Mistral-Nemo-Instruct-2407,all,100,1.67,3.25,94.6108,93.0,2,37,49,8,4,0,3,10,38,49
+Mistral-Nemo-Instruct-2407,Causal Reasoning,24,1.7917,3.6667,104.6512,95.8333,2,13,8,1,0,0,0,4,11,9
+Mistral-Nemo-Instruct-2407,Commonsense Reasoning,22,1.5455,3.0,94.1176,90.9091,0,5,14,1,2,0,1,0,9,12
+Mistral-Nemo-Instruct-2407,Deductive Reasoning,30,1.5667,3.0333,93.617,93.3333,0,8,17,3,2,0,0,3,11,16
+Mistral-Nemo-Instruct-2407,Inductive Reasoning,24,1.7917,3.3333,86.0465,91.6667,0,11,10,3,0,0,2,3,7,12
+Mistral-Small-24B-Instruct-2501,all,100,1.49,3.5859,140.6617,96.0,2,56,39,2,0,0,1,5,36,58
+Mistral-Small-24B-Instruct-2501,Causal Reasoning,24,1.4583,3.6667,151.4286,95.8333,2,13,8,1,0,0,0,1,9,14
+Mistral-Small-24B-Instruct-2501,Commonsense Reasoning,22,1.4091,3.7727,167.7419,100.0,0,17,5,0,0,0,0,1,7,14
+Mistral-Small-24B-Instruct-2501,Deductive Reasoning,30,1.7,3.3103,94.7262,93.3333,0,10,18,1,0,0,1,2,14,13
+Mistral-Small-24B-Instruct-2501,Inductive Reasoning,24,1.3333,3.6667,175.0,95.8333,0,16,8,0,0,0,0,1,6,17

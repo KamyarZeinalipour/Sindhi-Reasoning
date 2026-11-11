@@ -1,0 +1,12 @@
+# Automatic metrics (evaluation/metrics.py). hazm requires Python < 3.12.
+pandas
+numpy
+torch
+transformers
+sentence-transformers
+scikit-learn
+nltk
+rouge-score
+bert-score
+hazm
+tqdm
