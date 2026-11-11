@@ -51,13 +51,6 @@ reasoning ([`assets/generation_prompt.png`](../assets/generation_prompt.png)). T
 linguists then checked every item in two passes, logical validity first (about 12% discarded or
 rewritten) and then orthography and grammar.
 
-## Notes
-
-- The paper reports 2,190 items; the released split has 2,189.
-- 218 training items repeat another training item (same question, context and answer).
-- 22 of the 100 test items also appear in the training split, and 93 of the 96 test passages
-  occur in training with other questions. The paper's test results include these items.
-
 ## License
 
 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Part of the source text comes
